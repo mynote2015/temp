@@ -1,3 +1,3 @@
 ## Wlecom to GitHub Pages
 
-### MarkDown
+### ReST
