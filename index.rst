@@ -52,3 +52,23 @@ Indices and tables
    intro/getting-started-with-sphinx
    intro/getting-started-with-mkdocs
    intro/import-guide
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: GUIDES
+   
+   guides/getting-started-with-sphinx
+   guides/getting-started-with-mkdocs
+   guides/import-guide
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: SKILLS
+   
+   skills/getting-started-with-sphinx
+   skills/getting-started-with-mkdocs
+   skills/import-guide
+   
+   
