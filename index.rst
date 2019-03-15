@@ -61,6 +61,7 @@ Indices and tables
    guides/getting-started-with-sphinx
    guides/getting-started-with-mkdocs
    guides/import-guide
+   guides/The-Hitchhiker’s-Guide-to-Python
    
 .. toctree::
    :maxdepth: 2
