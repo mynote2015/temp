@@ -7,7 +7,7 @@ VMware vSphere环境中的渗透测试
 拥有VMware vSphere管理权限如何进一步向虚拟机渗透
 -----------------
 
-拥有VMware vSphere管理权限如何进一步向虚拟机渗透_
+'拥有VMware vSphere管理权限如何进一步向虚拟机渗透'_
 
 .. _拥有VMware vSphere管理权限如何进一步向虚拟机渗透: https://xz.aliyun.com/t/2817
 
@@ -15,7 +15,7 @@ VMware vSphere环境中的渗透测试
 VMware虚拟机中Windows/Linux系统用户密码的清除方法
 -----------------
 
-VMware虚拟机中Windows/Linux系统用户密码的清除方法_
+'VMware虚拟机中Windows/Linux系统用户密码的清除方法'_
 
 .. _VMware虚拟机中Windows/Linux系统用户密码的清除方法: https://blog.csdn.net/my_xxh/article/details/82501780
 
