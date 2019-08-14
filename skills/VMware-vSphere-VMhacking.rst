@@ -20,6 +20,15 @@ VMware虚拟机中Windows/Linux系统用户密码的清除方法
 .. _VMware虚拟机中Windows/Linux系统用户密码的清除方法: https://blog.csdn.net/my_xxh/article/details/82501780
 
 
+Copying files from a virtual machine guest operating system that does not have network connectivity (2036993)
+-----------------
+
+`Copying files from a virtual machine guest operating system that does not have network connectivity (2036993)`_
+
+.. _Copying files from a virtual machine guest operating system that does not have network connectivity (2036993): https://kb.vmware.com/s/article/2036993
+
+
+
 
 Using Markdown with Sphinx
 --------------------------
