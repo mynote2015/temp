@@ -7,7 +7,7 @@ Linux密码Hash破解方法
 Linux 下的密码 Hash破解方法
 -----------------
 
-`拥Linux 下的密码 Hash破解方法`_
+`Linux 下的密码 Hash破解方法`_
 
 .. _Linux 下的密码 Hash破解方法: https://blog.csdn.net/zsj2102/article/details/81166534
 
