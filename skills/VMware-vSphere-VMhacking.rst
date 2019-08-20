@@ -28,6 +28,24 @@ Copying files from a virtual machine guest operating system that does not have n
 .. _Copying files from a virtual machine guest operating system that does not have network connectivity (2036993): https://kb.vmware.com/s/article/2036993
 
 
+使用DiskInternals Linux Reader读取Windows上的Linux文件系统
+-----------------
+
+`使用DiskInternals Linux Reader读取Windows上的Linux文件系统`_
+
+.. _使用DiskInternals Linux Reader读取Windows上的Linux文件系统: https://www.linuxidc.com/Linux/2018-12/155719.htm
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Using Markdown with Sphinx
