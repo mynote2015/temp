@@ -68,9 +68,6 @@ Indices and tables
    :hidden:
    :caption: SKILLS
    
-   skills/getting-started-with-sphinx
-   skills/getting-started-with-mkdocs
-   skills/import-guide
    skills/VMware-vSphere-VMhacking
    
    
