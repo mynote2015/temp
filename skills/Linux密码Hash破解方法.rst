@@ -1,43 +1,23 @@
-VMware-vSphere-VMhacking
+Linux密码Hash破解方法
 ===========================
 
-VMware vSphere环境中的渗透测试
+Linux密码Hash破解方法
 
 
-拥有VMware vSphere管理权限如何进一步向虚拟机渗透
+Linux 下的密码 Hash破解方法
 -----------------
 
-`拥有VMware vSphere管理权限如何进一步向虚拟机渗透`_
+`拥Linux 下的密码 Hash破解方法`_
 
-.. _拥有VMware vSphere管理权限如何进一步向虚拟机渗透: https://xz.aliyun.com/t/2817
+.. _Linux 下的密码 Hash破解方法: https://blog.csdn.net/zsj2102/article/details/81166534
 
 
-VMware虚拟机中Windows/Linux系统用户密码的清除方法
+如何破解linux用户帐号密码二
 -----------------
 
-`VMware虚拟机中Windows/Linux系统用户密码的清除方法`_
+`如何破解linux用户帐号密码二`_
 
-.. _VMware虚拟机中Windows/Linux系统用户密码的清除方法: https://blog.csdn.net/my_xxh/article/details/82501780
-
-
-Copying files from a virtual machine guest operating system that does not have network connectivity (2036993)
------------------
-
-`Copying files from a virtual machine guest operating system that does not have network connectivity (2036993)`_
-
-.. _Copying files from a virtual machine guest operating system that does not have network connectivity (2036993): https://kb.vmware.com/s/article/2036993
-
-
-使用DiskInternals Linux Reader读取Windows上的Linux文件系统
------------------
-
-`使用DiskInternals Linux Reader读取Windows上的Linux文件系统`_
-
-.. _使用DiskInternals Linux Reader读取Windows上的Linux文件系统: https://www.linuxidc.com/Linux/2018-12/155719.htm
-
-
-
-
+.. _如何破解linux用户帐号密码二: https://www.cnblogs.com/shengulong/p/7561748.html
 
 
 
