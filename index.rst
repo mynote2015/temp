@@ -69,5 +69,6 @@ Indices and tables
    :caption: SKILLS
    
    skills/VMware-vSphere-VMhacking
+   skills/Linux密码Hash破解方法
    
    
