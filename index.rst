@@ -70,5 +70,6 @@ Indices and tables
    
    skills/VMware-vSphere-VMhacking
    skills/Linux密码Hash破解方法
+   skills/Juniper密码Hash破解方法
    
    
