@@ -37,6 +37,16 @@ Copying files from a virtual machine guest operating system that does not have n
 
 
 
+Host IPMI system event log status
+-----------------
+
+`Host IPMI system event log status`_
+
+.. _Host IPMI system event log status: https://kb.vmware.com/s/article/1033725
+
+
+
+
 
 
 
