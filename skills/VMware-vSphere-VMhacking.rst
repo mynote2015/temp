@@ -53,6 +53,13 @@ WinPE is missing C drive
 .. _HWinPE is missing C drive: https://msfn.org/board/topic/157301-winpe-is-missing-c-drive/
 
 
+esxi(vsphere):打开虚拟机和主机之间的copy/paste功能
+-----------------
+
+`esxi(vsphere):打开虚拟机和主机之间的copy/paste功能`_
+
+.. _esxi(vsphere):打开虚拟机和主机之间的copy/paste功能: https://blog.csdn.net/10km/article/details/53066118
+
 
 
 
