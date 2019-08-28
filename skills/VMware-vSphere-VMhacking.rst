@@ -45,6 +45,14 @@ Host IPMI system event log status
 .. _Host IPMI system event log status: https://kb.vmware.com/s/article/1033725
 
 
+WinPE is missing C drive
+-----------------
+
+`WinPE is missing C drive`_
+
+.. _HWinPE is missing C drive: https://msfn.org/board/topic/157301-winpe-is-missing-c-drive/
+
+
 
 
 
