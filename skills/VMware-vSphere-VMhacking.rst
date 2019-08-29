@@ -57,8 +57,10 @@ esxi(vsphere):打开虚拟机和主机之间的copy/paste功能
 -----------------
 
 `esxi(vsphere):打开虚拟机和主机之间的copy/paste功能`_
+`Enable copy and paste on VMware ESXi VMs`_
 
 .. _esxi(vsphere):打开虚拟机和主机之间的copy/paste功能: https://blog.csdn.net/10km/article/details/53066118
+.. _Enable copy and paste on VMware ESXi VMs: https://4sysops.com/archives/enable-copy-and-paste-on-vmware-esxi-vms/
 
 
 
