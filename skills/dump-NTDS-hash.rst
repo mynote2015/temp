@@ -26,6 +26,16 @@ PRINTER SERVER BUG TO DOMAIN ADMINISTRATOR
 .. _域渗透分析工具BloodHound 1.5.2入门实战: https://www.freebuf.com/sectool/179002.html
 
 
+AD password storage and encryption
+-----------------
+
+`AD password storage and encryption`_
+
+.. _AD password storage and encryption: https://social.technet.microsoft.com/Forums/en-US/924019ab-8497-4fb7-977f-26f184723980/a-question-about-ad-password-storage-and-encryption?forum=winserverDS
+
+
+
+
 
 
 
