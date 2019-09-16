@@ -73,5 +73,6 @@ Indices and tables
    skills/Juniper密码Hash破解方法
    skills/dump-NTDS-hash
    skills/wmi使用方法
+   skills/hash注入
    
    
