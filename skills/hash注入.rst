@@ -4,11 +4,13 @@ hash注入
 hash注入总结
 
 
-利用WMI代替psexec——WMIEXEC.vbs
+如何使用wce进行hash注入
 -----------------
 
-`利用WMI代替psexec——WMIEXEC.vbs`_
+`如何使用wce进行hash注入`_
+`Windows Credentials Editor`_
 
 
-.. _利用WMI代替psexec——WMIEXEC.vbs: https://www.secpulse.com/archives/32197.html
+.. _如何使用wce进行hash注入: https://www.cnblogs.com/landuo11/p/7487683.html
+.. _Windows Credentials Editor: https://www.ampliasecurity.com/research/windows-credentials-editor/
 
