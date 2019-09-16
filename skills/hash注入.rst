@@ -14,3 +14,13 @@ hash注入总结
 .. _如何使用wce进行hash注入: https://www.cnblogs.com/landuo11/p/7487683.html
 .. _Windows Credentials Editor: https://www.ampliasecurity.com/research/windows-credentials-editor/
 
+
+Pass The Hash & Pass The Key
+-----------------
+
+`Pass The Hash & Pass The Key`_
+
+
+.. _Pass The Hash & Pass The Key: http://www.vuln.cn/6813
+
+
