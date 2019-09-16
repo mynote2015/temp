@@ -15,15 +15,12 @@ ACTIVE DIRECTORY PASSWORD AUDITING
 .. _ACTIVE DIRECTORY PASSWORD AUDITING PART 2 - CRACKING THE HASHES: https://www.dionach.com/blog/active-directory-password-auditing-part-2-cracking-the-hashes
 
 
-PRINTER SERVER BUG TO DOMAIN ADMINISTRATOR
+How Attackers Dump Active Directory Database Credentials
 -----------------
 
-`PRINTER SERVER BUG TO DOMAIN ADMINISTRATOR`_
+`How Attackers Dump Active Directory Database Credentials`_
 
-`域渗透分析工具BloodHound 1.5.2入门实战`_
-
-.. _PRINTER SERVER BUG TO DOMAIN ADMINISTRATOR: https://www.dionach.com/blog/printer-server-bug-to-domain-administrator
-.. _域渗透分析工具BloodHound 1.5.2入门实战: https://www.freebuf.com/sectool/179002.html
+.. _How Attackers Dump Active Directory Database Credentials: https://adsecurity.org/?p=2398
 
 
 AD password storage and encryption
@@ -33,6 +30,13 @@ AD password storage and encryption
 
 .. _AD password storage and encryption: https://social.technet.microsoft.com/Forums/en-US/924019ab-8497-4fb7-977f-26f184723980/a-question-about-ad-password-storage-and-encryption?forum=winserverDS
 
+
+域***提权之MS14-068
+-----------------
+
+`域***提权之MS14-068`_
+
+.. _域***提权之MS14-068: https://blog.51cto.com/z2ppp/2060051
 
 
 
