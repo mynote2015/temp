@@ -47,6 +47,14 @@ AD password storage and encryption
 .. _域渗透相关概念: https://1sparrow.com/2018/02/19/%E5%9F%9F%E6%B8%97%E9%80%8F%E7%9B%B8%E5%85%B3/
 
 
+域渗透——利用SYSVOL还原组策略中保存的密码
+-----------------
+
+`域渗透——利用SYSVOL还原组策略中保存的密码`_
+
+.. _域渗透——利用SYSVOL还原组策略中保存的密码: https://xz.aliyun.com/t/1653/
+
+
 
 
 
