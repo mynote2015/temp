@@ -72,5 +72,6 @@ Indices and tables
    skills/Linux密码Hash破解方法
    skills/Juniper密码Hash破解方法
    skills/dump-NTDS-hash
+   skills/wmi使用方法
    
    
