@@ -39,6 +39,14 @@ AD password storage and encryption
 .. _域***提权之MS14-068: https://blog.51cto.com/z2ppp/2060051
 
 
+域渗透相关概念
+-----------------
+
+`域渗透相关概念`_
+
+.. _域渗透相关概念: https://1sparrow.com/2018/02/19/%E5%9F%9F%E6%B8%97%E9%80%8F%E7%9B%B8%E5%85%B3/
+
+
 
 
 
