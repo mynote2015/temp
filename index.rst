@@ -74,5 +74,6 @@ Indices and tables
    skills/dump-NTDS-hash
    skills/wmi使用方法
    skills/hash注入
+   skills/softethervpn
    
    
