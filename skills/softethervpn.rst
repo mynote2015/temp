@@ -1,33 +1,17 @@
-wmi使用方法
+softethervpn
 ===========================
 
-wmi使用方法总结
+softethervpn
 
 
-远程命令执行 wmic
+softethervpn
 -----------------
 
-`远程命令执行 wmic`_
+`softethervpn`_
 
 
-.. _远程命令执行 wmic: http://www.tiaozhanziwo.com/remote_command_exec/remote_command_exec-smbexec-2.html
+.. _softethervpn: https://www.softether.org/4-docs/1-manual
 
 
 
-利用WMI代替psexec——WMIEXEC.vbs
------------------
-
-`利用WMI代替psexec——WMIEXEC.vbs`_
-
-
-.. _利用WMI代替psexec——WMIEXEC.vbs: https://www.secpulse.com/archives/32197.html
-
-
-Windows WMIC命令使用详解(附实例)
------------------
-
-`Windows WMIC命令使用详解(附实例)`_
-
-
-.. _Windows WMIC命令使用详解(附实例): https://www.cnblogs.com/lsgxeva/p/8283662.html
 
