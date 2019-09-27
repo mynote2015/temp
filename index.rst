@@ -75,5 +75,5 @@ Indices and tables
    skills/wmi使用方法
    skills/hash注入
    skills/softethervpn
-   
+   skills/squidproxy
    
