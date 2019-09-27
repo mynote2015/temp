@@ -7,9 +7,9 @@ squid proxy部署
 centos和ubuntu部署squid proxy
 -----------------
 
-`squid proxy`_
+`centos和ubuntu部署squid proxy`_
 
 
-.. _squid proxy wmic: https://devopscube.com/setup-and-configure-proxy-server/
+.. _centos和ubuntu部署squid proxy: https://devopscube.com/setup-and-configure-proxy-server/
 
 
