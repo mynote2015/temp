@@ -4,11 +4,11 @@ Behinder
 Behinder康康它
 
 
-远程命令执行 wmic
+GitHub
 -----------------
 
-`远程命令执行 wmic`_
+`Behinder`_
 
 
-.. _远程命令执行 wmic: http://www.tiaozhanziwo.com/remote_command_exec/remote_command_exec-smbexec-2.html
+.. _Behinder: https://github.com/rebeyond/Behinder/releases
 
