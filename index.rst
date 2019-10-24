@@ -77,4 +77,6 @@ Indices and tables
    skills/softethervpn
    skills/squidproxy
    skills/behinder
+   skills/webshell
+   skills/ttyshell
    
