@@ -19,5 +19,5 @@ spawning a ttyshell
 `spawning a ttyshell`_
 
 
-.. spawning a ttyshell: https://mp.weixin.qq.com/s/Eoltd8r_LmisuZlho_qW0w
+.. _spawning a ttyshell: https://mp.weixin.qq.com/s/Eoltd8r_LmisuZlho_qW0w
 
