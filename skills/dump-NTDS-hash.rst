@@ -68,8 +68,9 @@ How to Use ldp.exe to Search LDAP Servers
 -----------------
 
 `How to Use ldp.exe to Search LDAP Servers`_
+`Ldp`_
 
 .. _How to Use ldp.exe to Search LDAP Servers: https://www.cisco.com/c/en/us/support/docs/unified-communications/jabber/212109-How-to-Use-LDP-EXE-to-Search-LDAP-Server.html
 
-
+.. _Ldp: https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc771022(v=ws.11)
 
