@@ -64,5 +64,12 @@ AD password storage and encryption
 
 
 
+How to Use ldp.exe to Search LDAP Servers
+-----------------
+
+`How to Use ldp.exe to Search LDAP Servers`_
+
+.. _How to Use ldp.exe to Search LDAP Servers: https://www.cisco.com/c/en/us/support/docs/unified-communications/jabber/212109-How-to-Use-LDP-EXE-to-Search-LDAP-Server.html
+
 
 
