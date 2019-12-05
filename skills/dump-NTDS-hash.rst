@@ -74,3 +74,12 @@ How to Use ldp.exe to Search LDAP Servers
 
 .. _Ldp: https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc771022(v=ws.11)
 
+
+browsing your crashed AD with dsamain.exe
+-----------------
+
+`browsing your crashed AD with dsamain.exe`_
+
+.. _browsing your crashed AD with dsamain.exe: https://technine.azurewebsites.net/?p=70
+
+
