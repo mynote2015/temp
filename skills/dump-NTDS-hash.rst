@@ -83,3 +83,12 @@ browsing your crashed AD with dsamain.exe
 .. _browsing your crashed AD with dsamain.exe: https://technine.azurewebsites.net/?p=70
 
 
+Veeam
+-----------------
+
+`Opening Microsoft Active Directory Database Manually`_
+
+.. _Opening Microsoft Active Directory Database Manually: https://helpcenter.veeam.com/docs/backup/vsphere/storage_vead_manual.html?ver=95u4
+
+
+
