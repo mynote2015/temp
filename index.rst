@@ -62,7 +62,7 @@ Indices and tables
    guides/getting-started-with-mkdocs
    guides/import-guide
    guides/The-Hitchhiker’s-Guide-to-Python
-   
+   guides/hacker101
 .. toctree::
    :maxdepth: 2
    :hidden:
