@@ -81,3 +81,4 @@ Indices and tables
    skills/webshell
    skills/ttyshell
    skills/win7复制黏贴新建文件夹无效问题解决方法
+   skills/XSS
