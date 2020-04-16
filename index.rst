@@ -86,3 +86,5 @@ Indices and tables
    skills/ttyshell
    skills/win7复制黏贴新建文件夹无效问题解决方法
    skills/XSS
+   skills/Lsassy远程从lsaas中提取用户凭证
+   
