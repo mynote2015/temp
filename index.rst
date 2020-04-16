@@ -65,6 +65,7 @@ Indices and tables
    guides/hacker101
    guides/ATT&CK框架
    guides/ZONE-h
+   guides/Windows身份认证及利用思路
 
 
 .. toctree::
