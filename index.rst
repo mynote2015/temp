@@ -66,6 +66,7 @@ Indices and tables
    guides/ATT&CK框架
    guides/ZONE-h
    guides/Windows身份认证及利用思路
+   guides/Web Application核心防御机制记要
 
 
 .. toctree::
