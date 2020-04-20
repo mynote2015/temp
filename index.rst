@@ -67,7 +67,7 @@ Indices and tables
    guides/ZONE-h
    guides/Windows身份认证及利用思路
    guides/Web Application核心防御机制记要
-   网络层绕过IDSIPS的一些探索
+   guides/网络层绕过IDSIPS的一些探索
 
 
 .. toctree::
