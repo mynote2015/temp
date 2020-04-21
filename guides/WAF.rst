@@ -12,5 +12,16 @@ WAF建设运营及AI应用实践
 
 
 
+全方位绕过软WAF攻略
+------------------
+
+全方位绕过软WAF攻略
+
+* `全方位绕过软WAF攻略`_
+
+.. _全方位绕过软WAF攻略: https://www.freebuf.com/articles/network/150646.html
+
+
+
 
 
