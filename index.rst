@@ -92,4 +92,4 @@ Indices and tables
    skills/Lsassy远程从lsaas中提取用户凭证
    skills/当PLC偶遇老旧但不乏经典的高级组包工具Hping3
    skills/Dirble
-   
+   skills/针对某国际信息通信公司从前期探测到内网提权的一次成功漏洞测试
