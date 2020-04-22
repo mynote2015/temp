@@ -70,6 +70,7 @@ Indices and tables
    guides/网络层绕过IDSIPS的一些探索
    guides/WAF
    guides/红蓝对抗场景下的二三事
+   guides/BUG BOUNTY HUNTING
    
 
 .. toctree::
