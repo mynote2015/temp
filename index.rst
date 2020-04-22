@@ -69,6 +69,7 @@ Indices and tables
    guides/Web Application核心防御机制记要
    guides/网络层绕过IDSIPS的一些探索
    guides/WAF
+   guides/红蓝对抗场景下的二三事
    
 
 .. toctree::
