@@ -97,3 +97,4 @@ Indices and tables
    skills/针对某国际信息通信公司从前期探测到内网提权的一次成功漏洞测试
    skills/用树莓派做VPN路由网关
    skills/XXE
+   skills/远程桌面协议
