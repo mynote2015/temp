@@ -101,6 +101,12 @@ Veeam
 .. _域渗透——利用dnscmd在DNS服务器上实现远程加载Dll: https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-%E5%88%A9%E7%94%A8dnscmd%E5%9C%A8DNS%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E5%AE%9E%E7%8E%B0%E8%BF%9C%E7%A8%8B%E5%8A%A0%E8%BD%BDDll/
 
 
+渗透基础——域内用户口令策略的获取
+-----------------
+
+`渗透基础——域内用户口令策略的获取`_
+
+.. _渗透基础——域内用户口令策略的获取: https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E5%9F%9F%E5%86%85%E7%94%A8%E6%88%B7%E5%8F%A3%E4%BB%A4%E7%AD%96%E7%95%A5%E7%9A%84%E8%8E%B7%E5%8F%96/
 
 
 
