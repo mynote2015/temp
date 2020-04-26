@@ -144,6 +144,15 @@ Veeam
 
 
 
+域渗透——DCSync
+-----------------
+
+`域渗透——DCSync`_
+
+.. _域渗透——DCSync: https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-DCSync/
+
+
+
 
 
 
