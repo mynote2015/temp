@@ -102,3 +102,4 @@ Indices and tables
    skills/内网渗透知识大总结
    skills/利用IIS的端口共享功能绕过防火墙
    skills/NSA披露Web Shell漏洞列表
+   skills/实战中如何绕过杀软用mimikatz获取账号密码
