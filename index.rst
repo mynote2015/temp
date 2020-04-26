@@ -101,3 +101,4 @@ Indices and tables
    skills/渗透基础——端口转发与代理
    skills/内网渗透知识大总结
    skills/利用IIS的端口共享功能绕过防火墙
+   skills/NSA披露Web Shell漏洞列表
