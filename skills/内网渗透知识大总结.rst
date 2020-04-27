@@ -12,7 +12,16 @@
 `我所了解的内网渗透——内网渗透知识大总结`_
 
 
-
 .. _我所了解的内网渗透——内网渗透知识大总结: https://www.anquanke.com/post/id/92646
+
+
+
+windows内网渗透杂谈
+-----------------
+
+`windows内网渗透杂谈`_
+
+
+.. _windows内网渗透杂谈: https://bl4ck.in/penetration/2017/03/20/windows%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F%E6%9D%82%E8%B0%88.html
 
 
