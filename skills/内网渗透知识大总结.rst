@@ -66,5 +66,15 @@ windows域安全
 
 
 
+【红蓝对抗】内网渗透-windows持久性后门
+-----------------
+
+`【红蓝对抗】内网渗透-windows持久性后门`_
+
+
+.. _【红蓝对抗】内网渗透-windows持久性后门: https://mp.weixin.qq.com/s/iFzYsWiWneAE_zGGZo7Miw
+
+
+
 
 
