@@ -163,6 +163,12 @@ Veeam
 .. _域渗透——DCSync: https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-DCSync/
 
 
+域渗透——Pass The Hash的实现
+-----------------
+
+`域渗透——Pass The Hash的实现`_
+
+.. _域渗透——Pass The Hash的实现: https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-Pass-The-Hash%E7%9A%84%E5%AE%9E%E7%8E%B0/
 
 
 
