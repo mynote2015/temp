@@ -58,7 +58,6 @@ Get-NetSession	//获取在指定服务器存在的Session信息
 Get-NetGPO	//获取域所有组策略对象
 Get-DomainPolicy	//获取域默认或域控制器策略
 Invoke-UserHunter	//搜索网络中域管理员正在使用的主机
-Invoke-UserHunter	//搜索网络中域管理员正在使用的主机
 Get-NetLocalGroup	//Gets a list of all current users in a specified local group,or returns the names of all local groups with -ListGroups.
 Invoke-EnumerateLocalAdmin	//This function queries the domain for all active machines with Get-NetComputer, then for each server it queries the local Administrators with Get-NetLocalGroup.
 
