@@ -38,28 +38,51 @@ powershell -exec bypass "import-module c:\powershell.ps1;Get-NetUser"
 PS C:\> import-module .\powerview.ps1
 
 Get-NetDomain	//获取当前的域名称
+
 Get-Netuser	//返回所有域内成员的详细信息
+
 Get-NetDomainController	//获取所有的域内的控制器信息
+
 Get-NetComputer	//获取所有域内机器的名称
+
 Get-Netshare	//获取域内的所有的网络共享
+
 Get-NetRDPSESSION	//获取指定服务的远程连接信息
+
 Get-NetProcess	//获取进程的详细信息
+
 Get-ADObJECT	//获取活动目录的信息
+
 Get-ADTrust	//获取域信任关系
+
 Invoke-ProcessHunter	//Query the process lists of remote machines, searching for processes with a specific name or owned by a specific user.
+
 Invoke-ShareFinder	//This function finds the local domain name for a host using Get-NetDomain,queries the domain for all active machines with Get-NetComputer, then for each server it lists of active shares with Get-NetShare. Non-standard shares can be filtered out with -Exclude* flags.
+
 Invoke-FileFinder	//This function finds the local domain name for a host using Get-NetDomain,queries the domain for all active machines with Get-NetComputer, grabs the readable shares for each server, and recursively searches everyshare for files with specific keywords in the name.If a share list is passed, EVERY share is enumerated regardless of other options.
+
 Get-ADDefaultDomainPasswordPolicy	//查询域密码策略
+
 Get-ObjectAcl	//Returns the ACLs associated with a specific active directory object.
+
 Get-NetOU	//获取域中OU信息
+
 Get-NetGroup	//获取所有域内组和组成员信息
+
 Get-NetFileServer	//根据SPN获取当前域使用的文件服务器
+
 Get-NetSession	//获取在指定服务器存在的Session信息
+
 Get-NetGPO	//获取域所有组策略对象
+
 Get-DomainPolicy	//获取域默认或域控制器策略
-Invoke-UserHunter	//搜索网络中域管理员正在使用的主机
+
+Invoke-UserHunter	//搜索网络中域管理员正在使用的主机 This function finds the local domain name for a host using Get-NetDomain,queries the domain for users of a specified group (default "domain admins")with Get-NetGroupMember or reads in a target user list, queries the domain for all active machines with Get-NetComputer or reads in a pre-populated host list,randomly shuffles the target list, then for each server it gets a list of active users with Get-NetSession/Get-NetLoggedon. The found user list is compared against the target list, and a status message is displayed for any hits.The flag -CheckAccess will check each positive host to see if the current user has local admin access to the machine.
+
 Get-NetLocalGroup	//Gets a list of all current users in a specified local group,or returns the names of all local groups with -ListGroups.
+
 Invoke-EnumerateLocalAdmin	//This function queries the domain for all active machines with Get-NetComputer, then for each server it queries the local Administrators with Get-NetLocalGroup.
+
 
 
 
