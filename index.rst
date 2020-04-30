@@ -104,3 +104,4 @@ Indices and tables
    skills/NSA披露Web Shell漏洞列表
    skills/实战中如何绕过杀软用mimikatz获取账号密码
    skills/powerview
+   skills/socat
