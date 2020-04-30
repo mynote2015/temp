@@ -135,6 +135,17 @@ Veeam
 .. _域渗透——AdminSDHolde: https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-AdminSDHolder/
 
 
+
+域渗透——使用Exchange服务器中特定的ACL实现域提权
+-----------------
+
+`域渗透——使用Exchange服务器中特定的ACL实现域提权`_
+
+.. _域渗透——使用Exchange服务器中特定的ACL实现域提权: https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-%E4%BD%BF%E7%94%A8Exchange%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%AD%E7%89%B9%E5%AE%9A%E7%9A%84ACL%E5%AE%9E%E7%8E%B0%E5%9F%9F%E6%8F%90%E6%9D%83/
+
+
+
+
 域渗透——AS-REPRoasting
 -----------------
 
