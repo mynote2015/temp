@@ -105,3 +105,4 @@ Indices and tables
    skills/实战中如何绕过杀软用mimikatz获取账号密码
    skills/powerview
    skills/socat
+   skills/Linux重定向及反弹shell详解
