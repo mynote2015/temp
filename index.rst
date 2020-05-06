@@ -106,3 +106,4 @@ Indices and tables
    skills/powerview
    skills/socat
    skills/Linux重定向及反弹shell详解
+   skills/Linux文件查找命令详解
