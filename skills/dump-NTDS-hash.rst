@@ -205,6 +205,8 @@ Veeam
 Invoke-NinjaCopy
 -----------------
 
+Invoke-NinjaCopy 远程使用，需要local具有remote的管理权限
+
 `Invoke-NinjaCopy`_
 
 .. _Invoke-NinjaCopy: https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-NinjaCopy.ps1
