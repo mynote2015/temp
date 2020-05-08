@@ -202,6 +202,13 @@ Veeam
 
 
 
+Invoke-NinjaCopy
+-----------------
+
+`Invoke-NinjaCopy`_
+
+.. _Invoke-NinjaCopy: https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-NinjaCopy.ps1
+
 
 
 
