@@ -174,6 +174,13 @@ Veeam
 .. _域渗透——Pass The Hash的实现: https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-Pass-The-Hash%E7%9A%84%E5%AE%9E%E7%8E%B0/
 
 
+域渗透 | 白银票据利用
+-----------------
+
+`域渗透 | 白银票据利用`_
+
+.. _域渗透 | 白银票据利用: https://juejin.im/post/5db99f9351882548540fc1a2
+
 
 域渗透 | 白银票据利用实例
 -----------------
