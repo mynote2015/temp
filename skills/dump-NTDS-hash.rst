@@ -174,6 +174,14 @@ Veeam
 .. _域渗透——Pass The Hash的实现: https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-Pass-The-Hash%E7%9A%84%E5%AE%9E%E7%8E%B0/
 
 
+Windows认证 | 域认证
+-----------------
+
+`Windows认证 | 域认证`_
+
+.. _Windows认证 | 域认证:https://juejin.im/post/5d8ea3bae51d45783e4b675a
+
+
 域渗透 | 白银票据利用
 -----------------
 
