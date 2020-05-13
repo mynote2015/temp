@@ -97,6 +97,20 @@ Kerberosity Killed the Domain: An Offensive Kerberos Overview
 
 
 
+ired.team
+-----------------
+
+`ired.team`_
+
+.. _ired.team: https://ired.team/
+
+
+
+
+
+
+
+
 
 
 
