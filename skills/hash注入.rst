@@ -31,3 +31,22 @@ Pass The Hash & Pass The Key
 
 
 .. _域渗透——Pass The Hash的实现: https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-Pass-The-Hash%E7%9A%84%E5%AE%9E%E7%8E%B0/
+
+
+COMPLETE DOMAIN COMPROMISE WITH GOLDEN TICKETS
+-----------------
+
+`COMPLETE DOMAIN COMPROMISE WITH GOLDEN TICKETS`_
+
+
+.. _COMPLETE DOMAIN COMPROMISE WITH GOLDEN TICKETS: https://blog.stealthbits.com/complete-domain-compromise-with-golden-tickets/
+
+
+
+Domain Persistence: Golden Ticket Attack
+-----------------
+
+`Domain Persistence: Golden Ticket AttackS`_
+
+
+.. _Domain Persistence: Golden Ticket Attack: https://www.hackingarticles.in/domain-persistence-golden-ticket-attack/
