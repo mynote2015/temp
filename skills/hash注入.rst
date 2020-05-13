@@ -50,3 +50,48 @@ Domain Persistence: Golden Ticket Attack
 
 
 .. _Domain Persistence: Golden Ticket Attack: https://www.hackingarticles.in/domain-persistence-golden-ticket-attack/
+
+
+
+Penetration Testing Lab Golden Ticket
+-----------------
+
+`Penetration Testing Lab Golden Ticket`_
+
+
+.. _Penetration Testing Lab Golden Ticket: https://pentestlab.blog/2018/04/09/golden-ticket/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
