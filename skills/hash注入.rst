@@ -46,10 +46,10 @@ COMPLETE DOMAIN COMPROMISE WITH GOLDEN TICKETS
 Domain Persistence: Golden Ticket Attack
 -----------------
 
-`Domain Persistence: Golden Ticket Attack`_
+`Domain Persistence-Golden Ticket Attack`_
 
 
-.. _Domain Persistence: Golden Ticket Attack: https://www.hackingarticles.in/domain-persistence-golden-ticket-attack/
+.. _Domain Persistence-Golden Ticket Attack: https://www.hackingarticles.in/domain-persistence-golden-ticket-attack/
 
 
 
