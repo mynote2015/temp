@@ -110,6 +110,7 @@ Indices and tables
    skills/docker
    skills/CVE-2019-0604
    skills/DSInternals
+   skills/WSUS
    
    
    
