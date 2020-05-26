@@ -111,6 +111,7 @@ Indices and tables
    skills/CVE-2019-0604
    skills/DSInternals
    skills/WSUS
+   skills/IIS-Raid-使用本地模块构建的IIS后门
    
    
    
