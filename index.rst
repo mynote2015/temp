@@ -114,6 +114,7 @@ Indices and tables
    skills/IIS-Raid-使用本地模块构建的IIS后门
    skills/把手机DIY成一台硬件WAF
    skills/Invoker
+   skills/qnap-nas
    
    
    
