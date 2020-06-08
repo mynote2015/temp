@@ -229,5 +229,27 @@ Invoke-NinjaCopy 远程使用，需要local具有remote的管理权限
 .. _Invoke-NinjaCopy: https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-NinjaCopy.ps1
 
 
+Dumping Hashes on a Windows Server Instance and checking for identical hashes
+-----------------
+
+ntlm&&aes
+
+`Dumping Hashes on a Windows Server Instance and checking for identical hashes`_
+
+.. _Dumping Hashes on a Windows Server Instance and checking for identical hashes: https://willson.tk/dumping_hashes.html
+
+
+
+Attack Methods for Gaining Domain Admin Rights in Active Directory
+-----------------
+
+ntlm&&aes
+
+`Attack Methods for Gaining Domain Admin Rights in Active Directory`_
+
+.. _Attack Methods for Gaining Domain Admin Rights in Active Directory: https://adsecurity.org/?p=2362
+
+
+
 
 
