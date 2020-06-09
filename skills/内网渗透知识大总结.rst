@@ -90,10 +90,11 @@ windows域安全
 Kerberosity Killed the Domain: An Offensive Kerberos Overview
 -----------------
 
+
 `Kerberosity Killed the Domain: An Offensive Kerberos Overview`_
 
 
-.. _Kerberosity Killed the Domain: An Offensive Kerberos Overview: https://posts.specterops.io/kerberosity-killed-the-domain-an-offensive-kerberos-overview-eb04b1402c61
+.. _、Kerberosity Killed the Domain: An Offensive Kerberos Overview、: https://posts.specterops.io/kerberosity-killed-the-domain-an-offensive-kerberos-overview-eb04b1402c61
 
 
 
