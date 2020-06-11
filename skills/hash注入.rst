@@ -63,6 +63,17 @@ Penetration Testing Lab Golden Ticket
 
 
 
+kerberos-how-to-stop-golden-tickets
+-----------------
+
+The most insidious part about this attack is you can change the password for the KRBTGT account, but the authentication token is still valid. You can rebuild the DC, but that authentication token is still valid.
+
+It’s incredibly difficult to clean up after a Golden Ticket is created for your domain.
+
+`kerberos-how-to-stop-golden-tickets`_
+
+
+.. _kerberos-how-to-stop-golden-tickets: https://www.varonis.com/blog/kerberos-how-to-stop-golden-tickets/
 
 
 
