@@ -115,6 +115,7 @@ Indices and tables
    skills/把手机DIY成一台硬件WAF
    skills/Invoker
    skills/qnap-nas
+   skills/ligolo
    
    
    
