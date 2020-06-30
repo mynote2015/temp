@@ -116,6 +116,7 @@ Indices and tables
    skills/Invoker
    skills/qnap-nas
    skills/ligolo
+   skills/渗透经验分享之SQL注入思路拓展
    
    
    
