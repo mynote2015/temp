@@ -71,6 +71,7 @@ Indices and tables
    guides/WAF
    guides/红蓝对抗场景下的二三事
    guides/BUG BOUNTY HUNTING
+   guides/CTF练手靶场合集
    
 
 .. toctree::
