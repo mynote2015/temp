@@ -4,7 +4,7 @@ phpmyadmin-getshell
 phpmyadmin-getshell
 
 
-Tips!
+Tips
 -----------------
 
 ::
