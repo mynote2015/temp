@@ -122,6 +122,8 @@ Indices and tables
    skills/WMI后门
    skills/phpmyadmin-getshell
    skills/neoregeorg
+   skills/nishang
+   skills/反弹shell
    
    
    
