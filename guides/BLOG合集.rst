@@ -56,3 +56,16 @@ Chen'Blog
 .. _Chen'Blog: https://chen.oinsm.com/
 
 
+HITCON ZeroDay
+------------------
+
+HITCON ZeroDay
+
+* `HITCON ZeroDay`_
+
+.. _HITCON ZeroDay: https://zeroday.hitcon.org/
+
+
+
+
+
