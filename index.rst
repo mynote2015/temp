@@ -72,7 +72,7 @@ Indices and tables
    guides/红蓝对抗场景下的二三事
    guides/BUG BOUNTY HUNTING
    guides/CTF练手靶场合集
-   
+   guides/BLOG合集
 
 .. toctree::
    :maxdepth: 2
