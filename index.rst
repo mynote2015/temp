@@ -127,7 +127,7 @@ Indices and tables
    skills/Postman
    skills/AntSword
    skills/umbraco-aspdotnet反序列化
-   skils/ShadowMove
+   skills/ShadowMove
    
    
    
