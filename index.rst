@@ -128,6 +128,8 @@ Indices and tables
    skills/AntSword
    skills/umbraco-aspdotnet反序列化
    skills/ShadowMove
+   skills/nimshellcode
+   skills/printspoofer
    
    
    
