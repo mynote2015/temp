@@ -22,3 +22,12 @@ nishang
 
 
 
+如何优雅的使用telnet测试端口连通性
+-----------------
+
+`如何优雅的使用telnet测试端口连通性`_
+
+
+.. _如何优雅的使用telnet测试端口连通性: https://www.linuxprobe.com/telnet-test-port.html
+
+
