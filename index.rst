@@ -130,6 +130,7 @@ Indices and tables
    skills/ShadowMove
    skills/nimshellcode
    skills/printspoofer
+   skills/探测脚本
    
    
    
