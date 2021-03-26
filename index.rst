@@ -131,6 +131,6 @@ Indices and tables
    skills/nimshellcode
    skills/printspoofer
    skills/探测脚本
-   
+   skills/Domain-fronting域名前置网络攻击技术
    
    
