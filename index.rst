@@ -73,6 +73,7 @@ Indices and tables
    guides/BUG BOUNTY HUNTING
    guides/CTF练手靶场合集
    guides/BLOG合集
+   guides/溯源反制终极手册
 
 .. toctree::
    :maxdepth: 2
