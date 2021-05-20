@@ -49,6 +49,18 @@ tennc/shell
 .. _如何优雅的隐藏你的Webshell: https://www.freebuf.com/articles/web/262932.html
 
 
+闲谈Webshell实战应用
+-----------------
+::
+
+	闲谈Webshell实战应用
+
+`闲谈Webshell实战应用`_
+
+
+.. _闲谈Webshell实战应用: https://www.anquanke.com/post/id/206664
+
+
 
 
 
