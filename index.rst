@@ -134,4 +134,5 @@ Indices and tables
    skills/探测脚本
    skills/Domain-fronting域名前置网络攻击技术
    skills/upload-labs通关
+   skills/axis2
    
