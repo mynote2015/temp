@@ -78,6 +78,14 @@ WHOAMI's Blog
 
 
 
+卿Blog
+------------------
+
+卿Blog
+
+* `卿Blog`_
+
+.. _卿Blog: https://www.cnblogs.com/-qing-/default.html?page=12
 
 
 
