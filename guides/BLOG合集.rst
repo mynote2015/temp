@@ -92,7 +92,7 @@ creatapd
 
 * `creatapd`_
 
-.. creatapd: http://www.creatapd.com/
+.. _creatapd: http://www.creatapd.com/
 
 
 
