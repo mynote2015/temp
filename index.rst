@@ -136,4 +136,5 @@ Indices and tables
    skills/upload-labs通关
    skills/axis2
    skills/DNSLOG注入
+   skills/mediator
    
