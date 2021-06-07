@@ -22,7 +22,7 @@ Charlotte-github
 
 ::
 
-	Charlotte-github
+	Charlotte github
 
 
 `Charlotte-github`_
