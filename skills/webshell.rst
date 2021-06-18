@@ -61,6 +61,20 @@ tennc/shell
 .. _闲谈Webshell实战应用: https://www.anquanke.com/post/id/206664
 
 
+slopShell
+-----------------
+
+::
+
+	php webshell
+
+
+`slopShell`_
+
+.. _slopShell: https://github.com/oldkingcone/slopShell
+
+
+
 
 
 
