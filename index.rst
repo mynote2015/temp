@@ -74,6 +74,7 @@ Indices and tables
    guides/CTF练手靶场合集
    guides/BLOG合集
    guides/溯源反制终极手册
+   guides/应急响应
 
 .. toctree::
    :maxdepth: 2
