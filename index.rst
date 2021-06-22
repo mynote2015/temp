@@ -138,4 +138,5 @@ Indices and tables
    skills/DNSLOG注入
    skills/mediator
    skills/Charlotte-Shellcode启动器
+   skills/Linux痕迹清理技巧
    
