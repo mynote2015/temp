@@ -5,7 +5,7 @@ hash注入总结
 
 
 如何使用wce进行hash注入
------------------
+-------------------------------------------------------------------------------------
 
 `如何使用wce进行hash注入`_
 `Windows Credentials Editor`_
@@ -16,7 +16,7 @@ hash注入总结
 
 
 Pass The Hash & Pass The Key
------------------
+-------------------------------------------------------------------------------------
 
 `Pass The Hash & Pass The Key`_
 
@@ -25,7 +25,7 @@ Pass The Hash & Pass The Key
 
 
 域渗透——Pass The Hash的实现
------------------
+-------------------------------------------------------------------------------------
 
 `域渗透——Pass The Hash的实现`_
 
@@ -34,7 +34,7 @@ Pass The Hash & Pass The Key
 
 
 COMPLETE DOMAIN COMPROMISE WITH GOLDEN TICKETS
------------------
+-------------------------------------------------------------------------------------
 
 `COMPLETE DOMAIN COMPROMISE WITH GOLDEN TICKETS`_
 
@@ -44,7 +44,7 @@ COMPLETE DOMAIN COMPROMISE WITH GOLDEN TICKETS
 
 
 Domain Persistence: Golden Ticket Attack
------------------
+-------------------------------------------------------------------------------------
 
 `Domain Persistence-Golden Ticket Attack`_
 
@@ -54,7 +54,7 @@ Domain Persistence: Golden Ticket Attack
 
 
 Penetration Testing Lab Golden Ticket
------------------
+-------------------------------------------------------------------------------------
 
 `Penetration Testing Lab Golden Ticket`_
 
@@ -64,7 +64,7 @@ Penetration Testing Lab Golden Ticket
 
 
 kerberos-how-to-stop-golden-tickets
------------------
+-------------------------------------------------------------------------------------
 
 The most insidious part about this attack is you can change the password for the KRBTGT account, but the authentication token is still valid. You can rebuild the DC, but that authentication token is still valid.
 
