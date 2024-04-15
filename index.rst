@@ -56,8 +56,6 @@ Indices and tables
    :hidden:
    :caption: GUIDES
    
-   guides/getting-started-with-sphinx
-   guides/getting-started-with-mkdocs
    guides/import-guide
    guides/The-Hitchhiker’s-Guide-to-Python
    guides/hacker101
