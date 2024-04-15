@@ -49,8 +49,6 @@ Indices and tables
    :hidden:
    :caption: First Steps
 
-   intro/getting-started-with-sphinx
-   intro/getting-started-with-mkdocs
    intro/import-guide
    
 .. toctree::
@@ -74,7 +72,6 @@ Indices and tables
    guides/CTF练手靶场合集
    guides/BLOG合集
    guides/溯源反制终极手册
-   guides/应急响应
 
 .. toctree::
    :maxdepth: 2
@@ -95,7 +92,6 @@ Indices and tables
    skills/win7复制黏贴新建文件夹无效问题解决方法
    skills/XSS
    skills/Lsassy远程从lsaas中提取用户凭证
-   skills/当PLC偶遇老旧但不乏经典的高级组包工具Hping3
    skills/Dirble
    skills/针对某国际信息通信公司从前期探测到内网提权的一次成功漏洞测试
    skills/用树莓派做VPN路由网关
