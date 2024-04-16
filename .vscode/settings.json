@@ -1,7 +1,4 @@
 
 {
-    "esbonio.sphinx.confDir": "",
-    "restructuredtext.linter.doc8.executablePath": "PathToExecutable",
-    "restructuredtext.linter.rstcheck.executablePath": "PathToExecutable",
-    "restructuredtext.linter.rst-lint.executablePath": "PathToExecutable"
+    
 }
